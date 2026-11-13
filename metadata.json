@@ -1,0 +1,5 @@
+{
+  "name": "Avni: Personal Assistant",
+  "description": "A mindful personal assistant that helps you stay on track with daily routines, meal reminders, and well-being breaks.",
+  "requestFramePermissions": ["microphone"]
+}
